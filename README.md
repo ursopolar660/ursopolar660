@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ursopolar660
 - 👀 I’m interested in full stack
 - 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on my knowledge, my hard and soft skkils.
+- 💞️ I’m looking to collaborate on my knowledge, my hard and soft skils.
 - 📫 How to reach me https://linkedin.com/in/mtgc1327
 
 <!---
