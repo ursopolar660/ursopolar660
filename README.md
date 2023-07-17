@@ -1,9 +1,9 @@
 😎 I'm Marcos Túlio,<br>
-📚 student of Fullstack developer in Growdev<br>
+📚 student of Front-end<br>
 🎱 my hobbies are: train english, meditate, watch movies, listen to music, get more knowledge, learn more and more, among others!<br>
 ⌚ professional experiences: CEO in Entalhatec (2019/2021) - Computer Technician (2016/2017) - computer assistant (2014/2014)<br>
 📗 I'm currently studying HTML (frontend).<br>
-🧑‍💻 My favorite programming language is python.<br>
+🧑‍💻 My favorite programming language is JavaScript.<br>
 🏠 living in Brazil<br>
 📫 How to reach me <a href="https://linkedin.com/in/mtgc1327"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="18px"></a><br>
 
