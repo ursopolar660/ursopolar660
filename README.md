@@ -1,26 +1,47 @@
-# 👋 Hi, I'm Marcos Túlio  
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFlhB2fVeR2tQ/profile-displaybackgroundimage-shrink_350_1400/B4DZnjy492GsAc-/0/1760463393394?e=1763596800&v=beta&t=0zwKStt6qmQoAPOZOLDwIWAf7Vu1NaO_FYh3nh86vW4" alt="Banner do Marcos Túlio">
+</p>
 
-💻 Front-end enthusiast, exploring the web one line of code at a time.  
-🌱 Currently focused on **HTML, CSS and JavaScript**.  
-🎧 Music, meditation, movies and learning — that's what keeps me inspired.  
-🌍 Based in Brazil.  
-
----
-
-## ✨ What I'm about  
-- Always improving my **English**  
-- Passionate about **design & technology**  
-- Believer in **lifelong learning**  
+<h1 align="center">Olá! 👋 Sou Marcos Túlio</h1>
+<h3 align="center">Desenvolvedor Full-Stack apaixonado por transformar ideias em produtos digitais.</h3>
 
 ---
 
-## 📫 Connect with me  
+### 👨‍💻 Sobre Mim
 
-<a href="https://wa.me/5531997451906"><img src="https://cdn.svgporn.com/logos/whatsapp-icon.svg" width="30px"></a>
-<a href="mailto:contato.marcostuliogc.com.br"><img src="https://cdn-icons-png.flaticon.com/512/542/542740.png" width="30px"></a><br>
+- 💡 Com background em empreendedorismo, tenho uma visão única sobre o ciclo de vida de produtos, do briefing à entrega final.
+- 🌱 Atualmente focado em aprofundar meus conhecimentos no ecossistema JavaScript, TypeScript e em práticas de CI/CD.
+- 🚀 Em busca da minha primeira oportunidade para colaborar em um time de alta performance e construir soluções de impacto.
+
 ---
 
-<img src="https://cdn.svgporn.com/logos/python.svg" width="30px"> <img src="https://cdn.svgporn.com/logos/c-sharp.svg" width="30px"> <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px"> <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px"> <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px"> <img src="https://cdn.svgporn.com/logos/visual-studio.svg" width="30px"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30px"> <img src="https://cdn.svgporn.com/logos/pycharm.svg" width="30px">
-<img src="https://cdn.svgporn.com/logos/blender.svg" width="30px">
+### 🛠️ Minha Stack de Tecnologias
 
-<br>[![card](https://github-readme-stats.vercel.app/api?username=ursopolar660&theme=dark&show_icons=true)](https://github.com/ursopolar660/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,mongodb,tailwind,git,aws,docker&perline=5" />
+  </a>
+</p>
+
+---
+
+### 🚀 Meu Projeto em Destaque: E-Commerce
+
+<p align="center">
+<a href="https://github.com/ursopolar660/E-Commerce-VivaMix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ursopolar660&repo=E-Commerce-VivaMix&theme=dracula&show_owner=true" />
+</a>
+</p>
+
+---
+
+### 📫 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/marcostuliodev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn do Marcos Túlio" />
+  </a>
+  &nbsp;&nbsp;&nbsp; <a href="mailto:contato@marcostuliogc.com.br" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email do Marcos Túlio" />
+  </a>
+</p>
